@@ -11,7 +11,7 @@ import dateutils from '../dateutils';
 import Calendar from '../calendar';
 import CalendarListItem from './item';
 
-const calendarHeight = 360;
+const calendarHeight = 300;
 class CalendarList extends Component {
   static propTypes = {
     ...Calendar.propTypes,
