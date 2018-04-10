@@ -126,7 +126,7 @@ class Day extends Component {
 
     if (this.props.marking) {
       containerStyle.push({
-        borderRadius: 12,
+        borderRadius: 3,
         justifyContent: 'center',
       });
 
